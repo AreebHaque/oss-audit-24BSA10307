@@ -7,8 +7,8 @@
 ---
 
 ## Chosen Software
-- **Software Name:** Linux  
-- **Category:** Operating System Kernel  
+- **Software Name:** Linux Kernal
+- **Category:** Operating System   
 - **License:** GNU General Public License (GPL)  
 
 The Linux kernel is the core component of the Linux operating system. It manages system resources such as CPU, memory, and devices, and acts as a bridge between hardware and software.
